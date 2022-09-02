@@ -1,4 +1,4 @@
-name: Deploy-youtube-example
+name: Deploy
 
 on:
   push:
